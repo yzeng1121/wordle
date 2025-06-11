@@ -9,26 +9,15 @@ Time spent: **1** hours spent in total
 
 ## Required Features
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [ ] App displays a keyboard on the screen
 - [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
 - [ ] User can play a basic version of Wordle, with different goal words each time
 
-The following **optional** features are implemented:
-
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
-- [ ] Run the app on a device rather than in the simulator
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]]([https://www.loom.com/share/4d941587b4df4da98eaa7810ec89a082?sid=17ba5770-4760-4b6f-a4b3-22928d8dace0]) .
+[Demo Video Here]]([https://www.loom.com/share/4d941587b4df4da98eaa7810ec89a082?sid=17ba5770-4760-4b6f-a4b3-22928d8dace0]) .
 
 
 ## Notes
