@@ -1,13 +1,11 @@
 # Project 1 - *Termle*
 
-Submitted by: **Yuxin Zeng**
-
 **Termle** is an iOS recreation of the New York Times' popular daily word puzzle--Wordle. This mobile application captures
 the essence of the minigame, mimicking the puzzle's easy and intuitive UI.
 
 Time spent: **1** hours spent in total
 
-## Required Features
+## Features
 
 The following functionality is completed:
 
